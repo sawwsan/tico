@@ -1,0 +1,26 @@
+[12/Jan/2022:12:00:46] (I): WordPress Instance Info:
+[12/Jan/2022:12:00:46] (I): Home URL : http://localhost/tico
+[12/Jan/2022:12:00:46] (I): Site URL : http://localhost/tico
+[12/Jan/2022:12:00:46] (I): WordPress Version : 5.8.3
+[12/Jan/2022:12:00:46] (I): Onboarding Version : 1.1.20
+[12/Jan/2022:12:00:46] (I): Multisite : No
+[12/Jan/2022:12:00:46] (I): Server Info : Apache/2.4.51 (Win64) OpenSSL/1.1.1l PHP/7.4.25
+[12/Jan/2022:12:00:46] (I): PHP Version : 7.4.25
+[12/Jan/2022:12:00:46] (I): HTTPS : No
+[12/Jan/2022:12:00:46] (I): PHP Max Execution Time : 120
+[12/Jan/2022:12:00:46] (I): PHP Max Input Vars : 1000
+[12/Jan/2022:12:00:46] (I): Max Upload Size : 41943040
+[12/Jan/2022:12:00:46] (I): Plugins:
+[12/Jan/2022:12:00:46] (I): [PLUGIN] Cookie Notice &amp; Compliance for GDPR / CCPA : v2.2.1 (Hu-manity.co)
+[12/Jan/2022:12:00:46] (I): [PLUGIN] المنتور : v3.5.0 (Elementor.com)
+[12/Jan/2022:12:00:46] (I): [PLUGIN] Envira Gallery Lite : v1.8.3.9 (Envira Gallery Team)
+[12/Jan/2022:12:00:46] (I): [PLUGIN] XML Sitemaps : v4.1.1 (Auctollo)
+[12/Jan/2022:12:00:46] (I): [PLUGIN] HubSpot All-In-One Marketing - Forms, Popups, Live Chat : v8.4.465 (HubSpot)
+[12/Jan/2022:12:00:46] (I): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.7.4 (ThemeIsle)
+[12/Jan/2022:12:00:46] (I): [PLUGIN] Post Duplicator : v2.26 (Metaphor Creations)
+[12/Jan/2022:12:00:46] (I): [PLUGIN] Smart Slider 3 : v3.5.1.2 (Nextend)
+[12/Jan/2022:12:00:46] (I): [PLUGIN] Templates Patterns Collection : v1.1.20 (ThemeIsle)
+[12/Jan/2022:12:00:46] (I): [PLUGIN] UpdraftPlus - Backup/Restore : v1.16.69 (UpdraftPlus.Com, DavidAnderson)
+[12/Jan/2022:12:00:46] (I): [PLUGIN] درون‌ریز وردپرس : v0.7 (wordpressdotorg)
+[12/Jan/2022:12:00:46] (I): [PLUGIN] Shield Security : v13.0.4 (Shield Security)
+[12/Jan/2022:12:00:46] (I): [PLUGIN] WPForms Lite : v1.7.2 (WPForms)
