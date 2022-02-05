@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'new_tico' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'nikuadmin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '@Nikukiosk!' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
